@@ -29,6 +29,14 @@ To compile the program, use the following command:
 g++ -O3 -std=c++17 -o cheatmachine cheatmachine.cpp -lncurses -lpthread
 ```
 
+## Workflow
+
+- **S** to **Search**: Initiate a fresh scan for a known value (e.g., current Gold).
+- **N** to **Narrow**: Filter existing results after the value changes in-game to isolate the correct address.
+- **F** to **Freeze**: Lock the selected address to a specific value to prevent it from decreasing or changing.
+- **U** to **Thaw**: Remove an address from the freeze list to allow the game to control it again.
+- **Tab** to **Move**: Toggle focus between the **Results** list and the **Frozen** panel to manage your active cheats.
+
 ## Usage
 
 Start the program with sudo:
