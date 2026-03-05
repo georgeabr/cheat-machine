@@ -47,6 +47,16 @@ Start the program with sudo:
 sudo ./cheatmachine
 ```
 
+## Usage Examples
+
+- **By PID** (unchanged): 
+  `sudo ./cheatmachine 12345`
+- **By partial name**: 
+  `sudo ./cheatmachine chrome`
+- **With spaces** (use quotes if necessary): 
+  `sudo ./cheatmachine "Google Chrome"`  
+> **Note:** All name-based searches are case-insensitive.
+
 ### Process Selector Controls
 
 * **Up / Down**: **Navigate** the process list
