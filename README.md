@@ -49,26 +49,26 @@ sudo ./cheatmachine
 
 ### Process Selector Controls
 
-- Up / Down: Navigate the process list
-- PgUp / PgDn: Scroll through list
-- Type characters: Filter list by Name, PID, or Command
-- Enter: Attach to the selected process
-- R: Refresh the process list
-- Esc: Exit the program
+* **Up / Down**: **Navigate** the process list
+* **PgUp / PgDn**: **Scroll** through list
+* **Type characters**: **Filter** list by Name, PID, or Command
+* **Enter**: **Attach** to the selected process
+* **R**: **Refresh** the process list
+* **Esc**: **Exit** the program
 
 ### Cheat Screen Controls
 
-- S: New Scan - Start a fresh search
-- N: Narrow - Filter current results by a new value
-- E: Edit - Change the value of the selected address
-- F: Freeze - Lock the selected address to a value
-- U: Thaw - Remove a freeze lock from an address
-- T: Type - Cycle through data types (i8, i16, i32, i64, f32, f64)
-- Tab: Switch focus between Results and Frozen panels
-- A: Add - Manually add a hex address
-- C: Clear - Wipe the current results list
-- P: Back - Return to the process selector
-- Q / Esc: Quit the application
+* **S**: **New Scan** – Start a fresh search
+* **N**: **Narrow** – Filter current results by a new value
+* **E**: **Edit** – Change the value of the selected address
+* **F**: **Freeze** – Lock the selected address to a value
+* **U**: **Thaw** – Remove a freeze lock from an address
+* **T**: **Type** – Cycle through data types (i8, i16, i32, i64, f32, f64)
+* **Tab**: **Switch focus** between Results and Frozen panels
+* **A**: **Add** – Manually add a hex address
+* **C**: **Clear** – Wipe the current results list
+* **P**: **Back** – Return to the process selector
+* **Q / Esc**: **Quit** the application
 
 ## Technical Notes
 
