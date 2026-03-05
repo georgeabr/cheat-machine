@@ -85,3 +85,7 @@ sudo ./cheatmachine
 The scanner identifies writable memory regions from `/proc/[pid]/maps` while ignoring system-specific regions like `[vvar]`.  
 It uses 16 MiB chunks for scanning to balance memory usage and throughput.  
 For integer types, it performs exact bitwise matching for maximum reliability.
+
+## Licence
+
+This project is licensed under the **GNU General Public License v2.0**. 
