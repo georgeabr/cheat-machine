@@ -49,7 +49,7 @@ sudo ./cheatmachine
 
 ## Usage Examples
 
-- **By PID** (unchanged): 
+- **By PID**: 
   `sudo ./cheatmachine 12345`
 - **By partial name**: 
   `sudo ./cheatmachine chrome`
