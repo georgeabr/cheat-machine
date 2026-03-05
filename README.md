@@ -88,4 +88,4 @@ For integer types, it performs exact bitwise matching for maximum reliability.
 
 ## Licence
 
-This project is licensed under the **GNU General Public License v2.0**. 
+This project is licenced under the **GNU General Public License v2.0**. 
