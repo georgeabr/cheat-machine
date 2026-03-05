@@ -5,6 +5,8 @@ A high-performance memory scanner and editor for Linux systems, written in C++17
 
 You can use this tool to find and modify memory addresses responsible for game resources like gold, currency, health, and item counts.  
 
+![Screenshot of Cheat Machine](media/Screenshot_20260305_150050.png)
+
 ## Features
 
 - Multi-threaded Scanning: Distributes workload across CPU cores using byte-based balancing for maximum efficiency.
