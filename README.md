@@ -2,6 +2,9 @@
 
 A high-performance memory scanner and editor for Linux systems, written in C++17. This tool provides a professional ncurses interface for searching, narrowing, and freezing memory values in running processes.
 
+
+You can use this tool to find and modify memory addresses responsible for game resources like gold, currency, health, and item counts.  
+
 ## Features
 
 - Multi-threaded Scanning: Distributes workload across CPU cores using byte-based balancing for maximum efficiency.
